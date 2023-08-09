@@ -1,0 +1,4 @@
+# Packages
+
+<table><thead><tr><th width="252">名稱</th><th>功能</th></tr></thead><tbody><tr><td>http</td><td>API</td></tr><tr><td>url_launcher</td><td>開啟URL</td></tr><tr><td>path</td><td>組合路徑？</td></tr><tr><td>uuid</td><td>生成uuid</td></tr><tr><td>path_provider</td><td>取得資料夾位置</td></tr><tr><td>video_player</td><td>播放影片</td></tr><tr><td>flutter_zxing</td><td>掃描/生成QRCode</td></tr><tr><td>encrypt</td><td>AES加解密</td></tr><tr><td>flutter_bloc</td><td>狀態管理</td></tr><tr><td>flutter_local_notifications</td><td>通知</td></tr><tr><td>provider</td><td>狀態管理</td></tr><tr><td>go_router</td><td>Navigation</td></tr><tr><td>hive hive_flutter</td><td>Box儲存（key-value Database)</td></tr><tr><td>flutter_shortcuts</td><td>桌面Shortcuts</td></tr><tr><td>image_picker</td><td>提取照片</td></tr><tr><td>image_gallery_saver</td><td>儲存照片</td></tr><tr><td>audioplayers</td><td>播放音效</td></tr><tr><td>mic_stream</td><td>獲得麥克風的Stream</td></tr><tr><td>permission_handler</td><td>處理權限</td></tr></tbody></table>
+
